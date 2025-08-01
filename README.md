@@ -1,6 +1,6 @@
 # 👋 ¡Hola!
 
-Soy desarrollador full stack con experiencia en JavaScript, TypeScript, Java, C/C++, COBOL, y más. Me formé como Técnico en Sistemas Informáticos en la Universidad Tecnológica Nacional (UTN).
+Soy un programador full stack con experiencia en JavaScript, TypeScript, Java, C/C++, COBOL, y más. Me formé como Técnico en Sistemas Informáticos en la Universidad Tecnológica Nacional (UTN).
 ## 💼 Tecnologías que uso
 - Frontend: TypeScript, React, Angular, HTML y CSS
 - Backend: Node.js, Express.js, Spring
