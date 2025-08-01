@@ -5,7 +5,7 @@ Soy desarrollador full stack con experiencia en JavaScript, TypeScript, Java, C/
 - Frontend: TypeScript, React, Angular, HTML y CSS
 - Backend: Node.js, Express.js, Spring
 - Bases de datos: MySQL, SQL Server, MongoDB
-- 
+  
 ## 📫 Contacto
 - Email: [carlorenosto15@gmail.com](mailto:carlorenosto15@gmail.com)
 - LinkedIn: [linkedin.com/in/carlo-renosto](https://www.linkedin.com/in/carlo-renosto-17a589283/)
