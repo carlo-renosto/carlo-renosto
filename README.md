@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola!
 
-<!--
-**carlo-renosto/carlo-renosto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador full stack con experiencia en JavaScript, TypeScript, Java, C/C++, COBOL, y más. Me formé como Técnico en Sistemas Informáticos en la Universidad Tecnológica Nacional (UTN).
+## 💼 Tecnologías que uso
+- Frontend: TypeScript, React, Angular, HTML y CSS
+- Backend: Node.js, Express.js, Spring
+- Bases de datos: MySQL, SQL Server, MongoDB
+- 
+## 📫 Contacto
+- Email: [carlorenosto15@gmail.com](mailto:carlorenosto15@gmail.com)
+- LinkedIn: [linkedin.com/in/carlo-renosto](https://www.linkedin.com/in/carlo-renosto-17a589283/)
 
-Here are some ideas to get you started:
+<!-- Puedes agregar badges, estadísticas, GIFs, lo que quieras -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
