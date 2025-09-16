@@ -5,7 +5,7 @@ Soy un programador full stack con experiencia en JavaScript, TypeScript, Java, C
 - Lenguajes: C/C++, C#, Java, Kotlin, JavaScript, Python, Visual Basic .NET
 - Frontend: TypeScript, React, Angular, HTML y CSS
 - Backend: Node.js, Express.js, Spring
-- Bases de datos: MySQL, SQL Server, MongoDB
+- Bases de datos: MySQL, SQL Server, MongoDB, Firestore
   
 ## 📫 Contacto
 - Email: [carlorenosto15@gmail.com](mailto:carlorenosto15@gmail.com)
