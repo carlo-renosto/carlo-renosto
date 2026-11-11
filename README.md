@@ -1,6 +1,7 @@
 # 👋 ¡Hola!
 
-Soy un programador full stack con experiencia en JavaScript, TypeScript, Java, C/C++, COBOL, y más. Me formé como Técnico en Sistemas Informáticos en la Universidad Tecnológica Nacional (UTN).
+Programador formado como Técnico Universitario en Sistemas Informáticos en la UTN FRGP. Actualmente me desempeño como soporte IT en Accenture.
+
 ## 💼 Tecnologías que uso
 - Lenguajes: C/C++, C#, Java, Kotlin, JavaScript, Python, Visual Basic .NET
 - Frontend: TypeScript, React, Angular, HTML y CSS
